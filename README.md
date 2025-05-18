@@ -130,8 +130,8 @@ Then run Manage Insert.sql
 ### Backend Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/ashiduDissanayake/Student-management-system.git
-cd Student-management-system/backend
+git clone https://github.com/sasantha1/EduManager.git
+
 ```
 
 2. Configure the database:
